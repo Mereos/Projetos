@@ -15,16 +15,19 @@ O consumo sempre existiu na sociedade, seja pela necessidade de sobrevivência o
 Diante disto, o artigo em questão tem por objetivo apresentar a proposta de um aplicativo que facilite a aproximação dos usuários que pretendem trocar, vender, doar ou alugar algum bem de consumo, sustentado pelo conceito de consumo colaborativo, ou seja, promovendo a reciclagem dos mais diversos itens entre os usuários. A ideia é fazem com que o numero de produtos comprados não utilizados seja diminuído, tornando é claro um mundo mais limpo. De acordo com (HOLZ; TOSINI; GUEDES, 2010),o aplicativo está sendo baseado na geolocalização da pessoa, facilitando o contato fisico entre as pessoas e os produtos a serem trocados.
 
 
-### Referencias Artigo 1
+### Referências Bibliográficas
+
 FERREIRA, J.; COSTA, D. A. UNIVERSIDADE FEDERAL DO PARANÁ LUIZ RODRIGO MOTTIN. . [S.l: s.n.], [s.d.].
 
-### Referencias Artigo 2
+
 REIS, Rafael Lima dos et al. TRADE: DESENVOLVIMENTO DE UMA APLICAÇÃO MOBILE PARA TROCA DE PRODUTOS USADOS. Revista eletrônica de Sistema de Informação e Gestão tecnológica, [S. l.], p. 85-108, 1 nov. 2018. Disponível em: http://periodicos.unifacef.com.br/index.php/resiget/article/download/1618/1132. Acesso em: 11 set. 2019.
 
-### Referencias Artigo 3
+
 BOTSMAN, Rachel; ROGERS, Roo. O que é meu é seu: como o consumo colaborativo vai mudar o nosso mundo. Porto Alegre: Bookman, 2011.
 HOLZ, F. C.; TOSINI, J.; GUEDES, A. L. O Emprego da Tecnologia Bluetooth e Rôbo Lego Mindstorms no Aprendizado de Crianças. Anais SULCOMP, v. 5, n. 0, 2010. Disponível em: <http://periodicos.unesc.net/sulcomp/article/view/276>. Acesso em: 13 set. 2019.
 
-Obs: Trabalho feito por Caio Oliveira e Filipe Silva
+
+
+#### Obs: Trabalho feito por Caio Oliveira e Filipe Silva
 
 
